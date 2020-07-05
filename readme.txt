@@ -1,2 +1,2 @@
-git is very powerful
-we all shoule use it
+Git is a distributed version control system
+Git is free software
